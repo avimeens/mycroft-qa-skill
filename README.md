@@ -1,0 +1,1 @@
+# mycroft-qa-skill
